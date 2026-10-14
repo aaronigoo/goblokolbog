@@ -1,0 +1,2 @@
+# Includes PyNaCl and DAVE support. Pin the SDK API used by bot.py.
+discord.py[voice]==2.7.1
